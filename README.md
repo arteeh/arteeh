@@ -1,16 +1,16 @@
-### Hi there 👋
+### My name is Maarten,
+### and I'm a computer science student.
 
-<!--
-**arteeh/arteeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### [📝 blog](https://medium.com/@arteeh)
 
-Here are some ideas to get you started:
+#### [📷 instagram](https://www.instagram.com/arteehlive)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### [🐦 twitter](https://www.twitter.com/arteehlive)
+
+#### [🎥 youtube](https://www.youtube.com/channel/UCml0vYEmvmLs0Splgtj4D5g/)
+
+#### [🌐 linkedin](https://www.linkedin.com/in/arteeh)
+
+#### [👻 snapchat](https://www.snapchat.com/add/arteehlive)
+
+#### [💾 gitlab](https://gitlab.com/arteeh)
