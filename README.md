@@ -1,6 +1,3 @@
-### My name is Maarten,
-### and I'm a computer science student.
-
 #### [📝 blog](https://medium.com/@arteeh)
 
 #### [📷 instagram](https://www.instagram.com/arteehlive)
@@ -12,5 +9,3 @@
 #### [🌐 linkedin](https://www.linkedin.com/in/arteeh)
 
 #### [👻 snapchat](https://www.snapchat.com/add/arteehlive)
-
-#### [💾 gitlab](https://gitlab.com/arteeh)
