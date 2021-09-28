@@ -1,11 +1,11 @@
-#### [📝 blog](https://medium.com/@arteeh)
+#### [🌐 linkedin](https://www.linkedin.com/in/arteeh)
 
-#### [📷 instagram](https://www.instagram.com/arteehlive)
+#### [✌ angellist](https://angel.co/u/arteeh)
 
 #### [🐦 twitter](https://www.twitter.com/arteehlive)
 
-#### [🎥 youtube](https://www.youtube.com/channel/UCml0vYEmvmLs0Splgtj4D5g/)
+#### [📷 instagram](https://www.instagram.com/arteehlive)
 
-#### [🌐 linkedin](https://www.linkedin.com/in/arteeh)
+#### [🎥 youtube](https://www.youtube.com/channel/UCml0vYEmvmLs0Splgtj4D5g/)
 
 #### [👻 snapchat](https://www.snapchat.com/add/arteehlive)
