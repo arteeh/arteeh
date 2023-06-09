@@ -1,7 +1,5 @@
 #### [🌐 linkedin](https://www.linkedin.com/in/arteeh)
 
-#### [✌ angellist](https://angel.co/u/arteeh)
-
 #### [🐦 twitter](https://www.twitter.com/arteehlive)
 
 #### [📷 instagram](https://www.instagram.com/arteehlive)
