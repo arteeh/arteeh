@@ -1,6 +1,6 @@
 #### [🌐 linkedin](https://www.linkedin.com/in/arteeh)
 
-#### [🐦 twitter](https://www.twitter.com/arteehlive)
+#### [𝕏 x](https://www.x.com/arteehlive)
 
 #### [🦅 nostr](https://snort.social/p/npub1rk9nz4q8vjxaz80rqdgye8nwqxgl5eh39fsm7yd38stn4yua34esdk70ah)
 
