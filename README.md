@@ -1,11 +1,9 @@
-#### [🌐 linkedin](https://www.linkedin.com/in/arteeh)
+#### [website](https://arteeh.com)
 
-#### [🐦 x](https://www.x.com/arteehlive)
+#### [sake](https://sake.arteeh.com)
 
-#### [🦅 nostr](https://snort.social/p/npub1rk9nz4q8vjxaz80rqdgye8nwqxgl5eh39fsm7yd38stn4yua34esdk70ah)
+#### [greenhouse](https://greenhouse.arteeh.com)
 
-#### [📷 instagram](https://www.instagram.com/arteehlive)
+#### [linkedin](https://www.linkedin.com/in/arteeh)
 
-#### [🎥 youtube](https://www.youtube.com/channel/UCml0vYEmvmLs0Splgtj4D5g/)
-
-#### [👻 snapchat](https://www.snapchat.com/add/arteehlive)
+#### [x](https://www.x.com/arteehlive)
