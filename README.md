@@ -1,9 +1,21 @@
-#### [website](https://arteeh.com)
+# Projects
 
-#### [sake](https://sake.arteeh.com)
+A few things I've been building and exploring.
 
-#### [greenhouse](https://greenhouse.arteeh.com)
+## 🤖 [Ito](https://github.com/itodevs/ito)
 
-#### [linkedin](https://www.linkedin.com/in/arteeh)
+**Immersive teleoperation** — an application that lets you pilot any robot with any VR gear.
 
-#### [x](https://www.x.com/arteehlive)
+## ⚔️ [Hex War](https://github.com/arteeh/hexwar)
+
+A clone of a game I used to love, and an experiment in building software without looking at the code.
+
+*Play Store soon.*
+
+## 🌱 [Greenhouse](https://greenhouse.arteeh.com)
+
+My first little WebXR space. I imagine a web where we all create and self-host physical spaces, then travel between them together in multiplayer.
+
+## 🍶 [Sake](https://sake.arteeh.com)
+
+My personal sake tier list.
