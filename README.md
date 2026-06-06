@@ -1,7 +1,3 @@
-# Projects
-
-A few things I've been building and exploring.
-
 ## 🤖 [Ito](https://github.com/itodevs/ito)
 
 **Immersive teleoperation** — an application that lets you pilot any robot with any VR gear.
