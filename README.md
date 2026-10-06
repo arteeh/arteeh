@@ -1,4 +1,4 @@
-## 🤖 [Ito](https://github.com/itodevs/ito)
+## 🤖 [Ito](https://github.com/arteeh/ito)
 
 **Immersive teleoperation**. An application that lets you pilot any robot with any VR gear.
 
