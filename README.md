@@ -4,7 +4,7 @@
 
 ## ⚔️ [Hex War](https://github.com/arteeh/hexwar)
 
-A clone of a game I used to love. Also an experiment where I build software without looking at the code. *Play Store soon.*
+A clone of a game I used to love. Also my first foray into building software without looking at the code. *Play Store soon.*
 
 ## 🌱 [Greenhouse](https://greenhouse.arteeh.com)
 
