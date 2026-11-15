@@ -2,7 +2,7 @@
 
 **Immersive teleoperation**. An application that lets you pilot any robot with any VR gear.
 
-## 💬 [UniiChat](https://github.com/arteeh/uniichat)
+## 💬 [Ki](https://github.com/arteeh/Ki)
 
 My fork of Victor Taelin's agent harness. One forever chat where the agent remembers everything, yet you don't hit a context limit. And it can do tool calls on all your devices, not just the one you're on.
 
